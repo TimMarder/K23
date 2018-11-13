@@ -50,9 +50,6 @@ K #21: Who Does Frame Work For?
 	<h1>Take That!</h1>
 	<div class="shadow-lg p-3 mb-5 bg-white rounded">
 	  <div class="card" style="width: 18rem;">
-	    <div class="card-divider">
-	      This is a card.
-	    </div>
 	    <img class="card-img-top" src="https://pbs.twimg.com/media/C04OIGiWgAEsrBu.jpg" alt="Card image cap">
 	    <div class="card-body">
 	      <p class="card-text">This is my attorney's badge.</p>
@@ -62,47 +59,41 @@ K #21: Who Does Frame Work For?
       </div>
       </center>
 
-      <h1>Foundation!</h1>
-      <div class = "success callout">
-	This is a success callout. You can put this in an xy grid container to make it easier to manage.
-      </div>
-      
-      <div class="grid-x grid-margin-x">
-	<div class="cell medium-4 large-4" >
-	  <div class="primary callout">
-	    This is a 4 cell primary callout
+      <div class="shadow p-3 mb-5 bg-white rounded">
+	<div class="row">
+	  <div class="col" style = "border:solid">
+	    Fancy
+	  </div>
+	  <div class="col-2" style = "border:solid">
+	    Text
 	  </div>
 	</div>
-	
-	<div class="cell medium-8 large-8">
-	  <div class="secondary callout">
-	    This is a 6 cell secondary callout.
+	<div class="row">
+	  <div class="col" style = "border:solid">
+	    That's an iFly Airlines sponsored movie. It's a suspense-hardboiled-action-romance-horror-comedy movie. Have you heard about the murder? (Please grow up...)
+
+	    After spending half a year by your side… My feelings for you… They changed. (.......What is wrong with these two women!? Why does my pain give them delight?) 'Shichishito'. The treasured Kurain Village heirloom whose name means '7 Branched Sword'. It is said that this sacred sword represents life itself. Though the branches may appear infinite, the choices limitless... like our destinies, the sword comes to but one end. One merciless point. And when the silver cord, the fragile thread that binds us to this world, is severed... the illusion is revealed and the implacability of fate is finally laid bare.
+	    <button type="button" class="btn btn-danger">Hold it!</button>
+	    <button type="button" class="btn btn-danger">Objection!</button>
+	  </div>
+	  <div class="col" style = "border:solid">
+	    (It's not a bad feeling, exposing contradictions like this. Now I understand that happy look on Wright's face every time he does it...) Sometimes Life Just sucks Well then, consider the mission a successful one.
+
+	    Yeah, this guy was so bad, he couldn't even fold a dollar, let alone a crane. Everyone tried to comfort him, but he would just sit there sobbing. The Steel Samurai is the lead character in a popular kid's show. He walks the streets of Neo Olde Tokyo... Fighting battle after battle against the Evil Magistrate and his minions. Of course, he never really defeats the Evil Magistrate. Although... I guess he did defeat him this time... H-hold on just a moment! Where's the witness? I’m so jealous of Mystic Maya! Ah, what a wonderful relationship… Long time no see, Nick. A lawyer is someone who smiles no matter how bad it gets.
+	    <button type="button" class="btn btn-danger">Hold it!</button>
+	    <button type="button" class="btn btn-danger">Objection!</button>
+	  </div>
+	  <div class="col" style = "border:solid">
+	    You fail to grasp the concept of 'shooting people is bad', detective. How else would you get in?! Teleportation?! Alaka.....alaka......ALAKAZOOOOOOOOOOOOOOOOOOOOOOOMG
+
+	    Ah, a ladder. Maybe Edgeworth took his unholy revenge on the detectives and slapped somebody! Ah that's right. I was in the middle of recreating a chess game. (What is this, some kind of secret courtroom poker ring?)
+	    <button type="button" class="btn btn-danger">Hold it!</button>
+	    <button type="button" class="btn btn-danger">Objection!</button>
 	  </div>
 	</div>
       </div>
-      
-      <div class="grid-x grid-padding-x">
-	<div class="cell medium-4 large-4">
-	  She'd never do anything like that! You hear me?! Never! She's a great kid, and really cute... And really great... And cute. (So I used a little hair gel! Relax, people!) Mr Edgeworth's sighs smell like citrus fruit. Miles Edgeworth told me something very interesting, you know. He said this case has a special significance to you.
-	</div>
-	<div class="cell medium-5 large-5">
-	  SuPer-Admin Restricted Desktop Access password-protected!? What? This is madness! I wish I was an animal tamer! Nick! Roll over! I already told you… Maya Fey is dead. ...Why are you talking about food? Oh, wait. That's normal for you.
-	</div>
-	<div class="cell medium-3 large-3">
-	  I think it's time for you to meet him now, Mr. Lawyer dude. Let us say the figurative Sir William will be dropping his panties before lunchtime. I'm terribly sorry that she's being so rude, Mr.Edgeworth. Hmm... So what was it about Mr. Wright that made your heart malfunction like that? In my personal opinion, he just looks like a typical snotty-nosed college brat. A glaring contradiction to be sure... More glaring than your forehead!
-	</div>
-      </div>
-      
-      <div class="button-group">
-	<a class="button primary" href="#">Primary Button</a>
-	<a class="button hollow secondary" href="#">hollow Secondary</a>
-	<a class="button success" href="#" disabled>disabled Success</a>
-	<a class="button clear alert" href="#">clear Alert</a>
-	<a class="button warning" href="#">Warning</a>
-      </div>
-      
     </div>
-    
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
